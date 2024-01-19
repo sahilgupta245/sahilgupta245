@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<img align="right" height="210" src="https://github.com/sahilgupta245/Cartoonifier_ML/blob/main/cartoonifier-python-project/blob.png" />
+<img align="right" height="210" style="border-radius: 50px" src="https://github.com/sahilgupta245/Cartoonifier_ML/blob/main/cartoonifier-python-project/blob.png" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anuragroque.anuragroque&"/>
 
 
