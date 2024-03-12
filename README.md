@@ -7,22 +7,22 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/anurag2050" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-gupta-253bb0187/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCClcGcmklEamcnffVrT3c1Q" target="_blank">
+  <a href="https://www.youtube.com/channel/UCbKISfDOT8In4nS6s9PkMyg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/anuragroque" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.com/channels/@anuragroque" target="_blank">
+  <a href="https://discord.com/channels/@sahil_gupta" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-<a href="https://anuragpi.me" target="_blank">
+<a href="#" target="_blank">
     <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-website-water-color-96.png" width="42" height="40" alt="website"  />
   </a>
-  <a href="https://blog.anuragpi.live" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/222.png" width="42" height="40" alt="website"  />
   </a>
 </div>
