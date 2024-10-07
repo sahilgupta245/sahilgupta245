@@ -31,7 +31,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Sahil from Greater Noida<br><br>- 🔭 I’m working as Full Stack Developer | Youtuber<br>- 📚 I'm currently learning MERN<br>- ⚡ In my free time I Make Technical Videos</p>
+<p align="left">I'm Sahil from Delhi<br><br>- 🔭 I’m a Python | Java | Back End Developer | Youtuber<br>- 📚 I'm currently learning Django Development<br>- ⚡ In my free time I Make Technical Videos</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
