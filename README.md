@@ -19,11 +19,8 @@
   <a href="https://discord.com/channels/@sahil_gupta" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-<a href="#" target="_blank">
+  <a href="https://portfolio-liart-eight-71.vercel.app/" target="_blank">
     <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/icons8-website-water-color-96.png" width="42" height="40" alt="website"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://github.com/AnuragRoque/AnuragRoque/blob/main/assets/222.png" width="42" height="40" alt="website"  />
   </a>
 </div>
 
